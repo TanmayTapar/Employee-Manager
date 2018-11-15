@@ -27,6 +27,3 @@ This is a Demo project using Spring Framework along with MySQL database. It is a
 
 ##Contributers
 
-
-##Contact Owner
-[dawei.zhuang@antra.net](mailto:dawei.zhuang@antra.net)
